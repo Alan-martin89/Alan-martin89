@@ -1,4 +1,4 @@
-*Welcome
+#Welcome
 - 👋 Hi, I’m Alan Martin
 - 👀 I’m interested in all things technology.
 - 🌱 I’m currently learning JavaScript whilst perfecting my skills in HTML and CSS.
